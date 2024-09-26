@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankita Raghuwanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="600">
+<div align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="500">
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaraghuwanshi26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaraghuwanshi26" /> </p>
