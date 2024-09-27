@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="500">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="600">
 </div>
 
 
